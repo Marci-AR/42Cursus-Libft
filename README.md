@@ -1,15 +1,16 @@
 # 42Cursus-Libft
 <p>
-Primer proyecto del Cursus de 42 Málaga<br>
-First proyect from 42 Cursus
+<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> Primer proyecto del Cursus de 42 Málaga<br>
+<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png"width="20px"/> First proyect from 42 Cursus
 </p>
-<h1>OBJETIVO</h1>
+<h1>OBJETIVO (OBJECTIVE)</h1>
 <p>
-El objetivo del proyecto es crear tu primera librería en C recreando funciones ya existentes para usarlas en futuros proyectos.
+<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> El objetivo del proyecto es crear tu primera librería en C recreando funciones ya existentes para usarlas en futuros proyectos.<br>
+<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png"width="20px"/> The objective of the proyect is to create our first c library by recreating existing functions for use in future proyects.
 </p>
 
-<h2>FUNCIONES A RECREAR</h2>
-<h3> PARTE OBLIGATORIA </h3>
+<h2>FUNCIONES A RECREAR (FUNTIONS TO RECREATE)</h2>
+<h3> PARTE OBLIGATORIA (MANDATORY PART)</h3>
 <p>
 <table>
 <tr>
