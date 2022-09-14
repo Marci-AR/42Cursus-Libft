@@ -1,7 +1,7 @@
 # 42Cursus-Libft
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> Primer proyecto del Cursus de 42 Málaga<br>
-<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png"width="20px"/> First proyect of 42 Cursus
+<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png"width="20px"/> First proyect of the 42 Malaga Cursus
 </p>
 <h1>OBJETIVO (OBJECTIVE)</h1>
 <p>
